@@ -18,7 +18,7 @@ const optionForPie = function(data) {
                 name: '地区占比',
                 type: 'pie',
                 radius: '55%',
-                center: ['50%', '60%'],
+                center: ['50%', '45%'],
                 data: data,
                 itemStyle: {
                     emphasis: {
